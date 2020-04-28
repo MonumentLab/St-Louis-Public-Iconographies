@@ -1,4 +1,4 @@
-﻿ResearchID,Event,Name,How do you identify?,Age,Zipcode,"Your Name, @ and/or Hashtag",Describe Your Map,Inventories
+﻿ResearchID,Event,Name,Identify,Age,Zipcode,Handle,Descripion,Inventories
 AGGA1,Arch Grounds-Gateway Arch,Northside Then & Now,African-American male cis/het,54,63107,Derek Laney,"I remember some things in N. STL from my childhood. Some no longer exist like Sir Richard's Nite Club which had a furniture store adjacent to it. The Lowes movie theater & the Peppermint Lounge, a comic book store also no longer exists. Beaumont & Central High are both closed. I drew Central big and Beaumont small because I went to Central and Beaumont was our rival. ","Wolh Community Center,Sir Richard's Nite Club & Furniture Store,O'Fallon Park,Fairgrounds Park,North Grand Water Tower,Aamitius' Bookstore,Art House,Central High School,Beaumont High School,Lowes Movie Theater,Peppermint Lounge"
 AGGA2,Arch Grounds-Gateway Arch,Almost Home,she/her,40,63110,Samantha @slickfisher,"Childhood navigation tools:
 1-The Arnold Water Tower traveling home from Southern MO
@@ -65,8 +65,8 @@ CBOHB4,City Hall for City Business Open Hours (B),Saints Go Marching In,Female,6
 CBOKA3,City Hall for City Business Open Hours (A),,African American Woman,54,63136,Lovey J. Davis,I would love to see a Paula J. Carter and Gregory J. Carter monument in St. Louis or Walnut Park area,Paula and Gregory Carter Monument
 CCFV1,St. Louis Community College Florissant Valley ,The St. Louis I Remember,White Female,52,63031,Rolan Melton,I was born in North City there till I was 3 on Strotmen Place and Grand. Went to church on Grand and Carter. Moved to Glasglow Village. There was a shopping center on the corners of Shepley and Spring Garden. It's an empty lot now. Spent Friday and Saturday nights at Aloha Skating Rink. As a student we had school picnics at Chain of Rocks Amusement Park on the Bluffs over the Mississippi River. As a teenager my church youth group would go to the Fun Park on the corners of Lindbergh and Taylor off of 270 (now a car lot). Fancy dinners were had at the Top of the Tower on Chambers or Noah's Ark in St. Charles. Dinner after church was at Ozella's (spelled wrong) on 36 or Cusumano's in Glasglow Village. I spent summers at The Muny and the Zoo.,"Missouri River,Mississippi River,Noah's Ark,Aloha Skating Rink,Chain of Rocks Amusement Park,The Muny,Zoo,Arch,The Admiral (Riverboat),Top of the Tower Restaurant"
 CCFV2,St. Louis Community College Florissant Valley ,,Male,15,,Deram,I chose the St. Louis Zoo. I chose it because I love animals and I can just go there whenever I want to.,Zoo
-CCFV3,St. Louis Community College Florissant Valley ,Memory Lane,,18,63146,Omari Jones,"City Museum: It was the first date I went on with my first boyfriend who is now deceased and every time I go back I think about the memories that were made there. 
-Pearl Cafe: My favorite Thai restaurant that I've made great memories with my friends at. 
+CCFV3,St. Louis Community College Florissant Valley ,Memory Lane,,18,63146,Omari Jones,"City Museum: It was the first date I went on with my first boyfriend who is now deceased and every time I go back I think about the memories that were made there.
+Pearl Cafe: My favorite Thai restaurant that I've made great memories with my friends at.
 Coachlite: I used to skate a lot as a kid and it was a place that brought me comfort. ","City Museum,Pearl Cafe,Coachlite Skate Center"
 CCFV4,,My Favorite Places to Be,,59,63114,Juana Pounsville,"Iowa's Woman's Shelter is a place where I did my healing with all female support. I also chose my church. I've been going to church since I was able to walk. I chose January Park cause I like walking. They have a track to walk, swimming for the kids, pond to feed geese. Very relaxing. I like outlet places. Each place is where I go for peace, sanity and balance in my life. ","January-Wabash Park,Bowling Alley (unmarked),Church (unmarked),Iowa Women's Shelter"
 CCFV5,St. Louis Community College Florissant Valley ,My Memories ,,25,63034,William Clemens,A couple of places where I either spent most of my time or remember the most. I always had a fun time with friends or family or both. I was also a much easier time. ,"Arch,Palace Roller Skating Rink"
@@ -86,7 +86,7 @@ CRC5,Cherokee Rec Center,,,15,63118,Jaden,,"Arch,Zoo"
 CRC6,Cherokee Rec Center,,,,,,,"Arch,Zoo"
 CRC7,Cherokee Rec Center,,,9,,Micah Shaw,,"Arch,Zoo,Home (unmarked),Six Flags,St. Louis County,Library (unmarked),Grandma's House (unmarked),Grandpa's House (unmarked)"
 CRC8,Cherokee Rec Center,,,26,63111,@_theince,,"Dutchtown Neighborhood,Arch,Freedom Arts & Education Center"
-CSRF1,Cherokee Street Reach Festival,,,33,63104,,"I wanted to support and [illegible] the work of monuments that exist due to tireless advocates but are underfunded. It  is important to hear the work they have done. 
+CSRF1,Cherokee Street Reach Festival,,,33,63104,,"I wanted to support and [illegible] the work of monuments that exist due to tireless advocates but are underfunded. It  is important to hear the work they have done.
 These exist but need reinvention. Truth and reconciliation process can help come up with new versions eg. Columbus ->Gramsci","The Ville Neighborhood,Chuck Berry House,Shelley v. Kraemer (1948),Mary Meachum Freedom Crossing (Riverfront Trail),Dred and Harriet Scott Statue,Sugar Loaf Mound,Arch,Cherokee Street Indian Statue,Christopher Columbus Statue (Tower Grove Park)"
 CSRF2,Cherokee Street Reach Festival,Big Mound,,48,63118,Ras Tree,Ancient Monument & cultural significance of Mound City,Big Mound
 CSRF3,Cherokee Street Reach Festival,Express!,African American female,32,63119,A Witherspoon,I'd like to see a space where people can go and create items that just stimulated the senses. From art to music to leaps and power tools a spacitial place can go and put their hands on different forms of mediums in one central location. This space would be open to the public but also add the breatheable component to where they can release negative energy in a positive way. ,
@@ -106,7 +106,7 @@ HMES5,House of Miles East St. Louis,,,Old,62205,John Pomerlee,,"Katherine Dunham
 HMES6,House of Miles East St. Louis,,,14,,Jadora Pomerlee,The House of Miles often talks about Miles Davis (of course) but also other worthy musicians. I think Dizzy Gillespie need to be noticed. ,"House of Miles,Dizzy Gillespie House"
 HMES7,House of Miles East St. Louis,New ESTL,,29,62203,Mykael Ash,"Hotels, Business list, University, Jr. College, Community work out Facility, School for Arts, Hospital, Loft Apartments, Restaurants, Warehouses, Murals, Commercial Businesses, better police patrolling","Centreville,East St. Louis,Home (unmarked),Casino Queen,House of Miles,Katherine Dunham Museum,Washington Park,Hotels (unmarked),University (unmarked),Community Wellness Center,School for arts,Murals (unmarked),Hospital (unmarked),Restaurants (unmarked),Businesses (unmarked)"
 HMES8,House of Miles East St. Louis,History of ESL / STL,,51,62221,Michael C Fordson mfordson1@charter.net,"As a 51 year old African American man, I grew up in East St. Louis. What I wrote are places I enjoyed as a child and have taken my children to visit. I still believe in the city I love. ",
-HMES9,House of Miles East St. Louis,Home of Champions,,41,62205,Taylor C.,"House of Miles - The home of the late, great Miles Davis. 
+HMES9,House of Miles East St. Louis,Home of Champions,,41,62205,Taylor C.,"House of Miles - The home of the late, great Miles Davis.
 Lindell Bank (aka First Illinois Bank) - One of the oldest buildings in East St. Louis, over 150 years old. One of the first banks to service black people.
 East St. Louis Senior High School - The City of Champions. Lots of successful people came from East St. Louis. ","East St. Louis,East St. Louis Lincoln Senior High,House of Miles,Washington Park,Lindell Bank"
 HMES10,House of Miles East St. Louis,City of Champions,,15,62205,CE,East St. Louis Senior High because that is the school I go to. We have come very far because our boys basketball team win state and our track boys and girls won state. ,East St. Louis Senior High School
@@ -190,7 +190,7 @@ MOHM8,Missouri History Museum,,,65,63139,,"Lots of history, green space, archite
 MOHM9,Missouri History Museum,,,52,63104,Karen Schaeffner,Lafayette Square and McKinley Heights Garden. I visit these daily on my walks,"Lafayette Park,Laclede Avenue,Missouri Ave,Highway 44,Park Ave,Mississippi Ave,Boathouse at Lafayette Park"
 MOHM10,Missouri History Museum,,Female,28,63116,Mandy,"See notes above!
 Smith Park: I know because of a recent protest here
-Tower Grove: Just signed a petition to remove Christopher Columbus statue 
+Tower Grove: Just signed a petition to remove Christopher Columbus statue
 Art Hill/Museum: Guy on horse, had high school practice here","Tower Grove Park,Arch,Luther Ely Smith Park,Art Hill,St. Louis Art Museum,Apotheosis of St. Louis,Christopher Columbus Statue (Tower Grove Park),Shakespeare Statue (Tower Grove Park)"
 MOHM11,Missouri History Museum,Best of St. Louis,,57,63112,Rick G'Sell,"St. Louis has something for everyone. Love her!
 ","University of Missouri-St. Louis,Washington University,Delmar Blvd,The Loop,Honey Manor,Imo's Pizza,Forest Park,Zoo,The Muny,Missouri History Museum,Central West End Neighborhood,Saint Louis University,Arch,Cathedral Basilica of Saint Louis (New Cathedral / CWE),Busch Stadium,Mississippi River,Botanical Gardens,Ted Drews Frozen Custard,The Grove,Anheuser Busch Brewery,Frontenac"
@@ -202,7 +202,7 @@ MOHM16,Missouri History Museum,,Nonbinary,16,63118,Bea Murchithi,I chose the Met
 MOHM17,Missouri History Museum,Old Home,"She/her, African American",13,,Luna,This is the house I lived in most of my life from age 3-9. McDonald Park is the park me and my data always played at. The Bus stop that I went to everyday for school.,"Potomac St,Oak Hill St,My House (unmarked),McDonald Park,School bus stop (unmarked)"
 MOHM18,Missouri History Museum,Gateway Arch,Female,26,63043,Toni Moore,It's not much but I chose the Arch because my grandfather helped build it. I never got to meet him so the arch holds a little something for me when I see it. And also my great grandparents were immigrants from Germany so it also kind of reminds me how welcoming it is. ,Arch
 MOHM19,Missouri History Museum,Forest Park,Person / human,68,63124,,"All of the Park matters, it's used in different ways by different people and at different seasons it's our place to enjoy together.",Forest Park
-MOHM20,Missouri History Museum,Discovering Your Backyard ,,Mom,63021,Mary,"I love seeing something in a new light. The current exhibition Flores Mexicans, A Love Story of Charles and Ann Lindbergh reminds you that there was so much more to them than just Charles' story! 
+MOHM20,Missouri History Museum,Discovering Your Backyard ,,Mom,63021,Mary,"I love seeing something in a new light. The current exhibition Flores Mexicans, A Love Story of Charles and Ann Lindbergh reminds you that there was so much more to them than just Charles' story!
 
 All St. Louis neighborhoods. They are all about our history, family, food (The Hill). The CWE, the beauty. An appreciation of our past and the promise of talent in the younger generation.","Missouri History Museum,Forest Park,Zoo,The Muny,The Loop,The Hill Neighborhood,Central West End Neighborhood"
 MOHM21,Missouri History Museum,Mark's Magic Map,Male,68,63109,,,"Mississippi River,Chatillon-DeMenil Mansion,Crown Candy,Jefferson Barracks Park & Cemetery,Scott Joplin House,Campbell House Museum,Old Courthouse ,Tower Grove Park,Botanical Gardens,Faust Park,Butterfly House,Confluence,Forest Park,The National Museum of Transportation,Arch,The Armoury"
@@ -272,7 +272,7 @@ MZSPB11,Mezzanine Spring,STL from above,,18,63119,Kalyn,I marked a few of my fav
 MZSPB12,Mezzanine Spring,Ishaan's 2nd Place,,21,63112,Ishaan,I chose to mark what I have visited as a Wash U Student,"North County,Arch,Botanical Gardens,Central West End Neighborhood,Soulard Farmer's Market,West County,The Grove,South County,Busch Stadium"
 MZSPB13,Mezzanine Spring,,,,,,,"Arch,Mississippi River"
 MZSPB14,Mezzanine Spring,,,,,Julian,this: MAP-WILHOP-KOUGIT-BAKIINE-WIRK-YOU-WJI,"Street (unmarked),My House (unmarked)"
-MZSPB15,Mezzanine Spring,,,,,,,Ikea 
+MZSPB15,Mezzanine Spring,,,,,,,Ikea
 MZSPB16,Mezzanine Spring,,,,,,,"Busch Stadium,Arch,Mississippi River"
 MZSPB17,Mezzanine Spring,Forest Park,,6,63124,Jake,,Forest Park
 MZSPB18,Mezzanine Spring,,,15,,Gabriella,I chose to mark untraditional places that were more historical and defining for St. Louis.,"Cherokee Street,El Chico Bakery ,Washington Avenue,The Hill Neighborhood,Fox Theatre,St. Louis Art Museum,Powell Hall,Laumeier Sculpture Park,Arch,Douglass High School,Nahed Chapman New American Academy (NCNAA),Statue of Liberty"
@@ -479,7 +479,7 @@ PSPL4,Renaissance Place Senior Living,,,,,,,Fox Theatre
 PULS1,Pulitzer Staff,Climate Change / Calamity,She/ her,29,60608,@ishitadharap,"Seeing the flooding / swelling of the river from the train bridge really shook me. It was like being able to touch, smell, feel, see, climate change in a very close, tangible way.","Mississippi River,Amtrak,""Chicago, IL"",MacArthur Bridge"
 PULS2,Pulitzer Staff,Emotional Monuments,She / her,29,60608,@ishitadharap,Emotional monuments in an internship summer. I chose places where I've felt things most deeply (about) while I've been here.,"Arch,Mississippi River,Ices Plain & Fancy,Forest Park,Laclede Avenue,Taylor Avenue,Yoko's Home (unmarked)"
 PULS3,Pulitzer Staff,Map of Racism ,She / her,29,60608,@ishitadharap,(This map doesn't exist.) What if we mapped racism in its different forms? What would this research process look like? Incidents of racism from mild to severe: microagressions (1) to racial violence (4). ,"Arch,Mississippi River"
-PULS4,Pulitzer Staff,Metaphysical Map of Reality,,26,63109,CJ,"1. External View of Network of Worlds: Concept of the universal threads woven in perfect, harmony, hypersphere. 
+PULS4,Pulitzer Staff,Metaphysical Map of Reality,,26,63109,CJ,"1. External View of Network of Worlds: Concept of the universal threads woven in perfect, harmony, hypersphere.
 2. Sierpinski Triangle: Example of self-similar fractal dimensions. Fractal dimensions have zero area and contain an infinite number of curves.
 3. Mind's Eye Compass Rose: A personal tool, mandala of sorts, taking old philosophy ideas of air, fire, water, earth as a means to understand and navigate our growing world.",
 PULS5,Pulitzer Staff,Food! I carry in bags,Female,,63139,Natalie,Places I grocery shop,"Whole Foods,Schnucks,Trader Joe's,Aldi's,Highway 44,Highway 64/40,Highway 170,Highway 70,Highway 55"
@@ -570,7 +570,7 @@ SFSLB17,Shakespeare Festival St. Louis B,Foot in the Past,Male,19,53717,@rizvan.
 SFSLB18,Shakespeare Festival St. Louis,,Male,20,63123,Michael,Family's go-to Bakery,Bakery (unmarked)
 SFSLB19,Shakespeare Festival St. Louis B,,African,36,,James Jones,North County connections,"Forest Park,Mississippi River,Arch,Skinker Blvd,Delmar Blvd,City of Pine Lawn,City of Northwoods,Halls Ferry Circle,Goodfellow Blvd,Riverview Blvd,Halls Ferry Road,Lewis and Clark Blvd (MO Route 367)"
 SFTF1,Sauce Food Truck Friday,,,,,,,"Art Hill,Forest Park"
-SFTF2,Sauce Food Truck Friday,Dream STL,Female,21,63021,Jovana,"We need a river walk with lots of restaurants and shops 
+SFTF2,Sauce Food Truck Friday,Dream STL,Female,21,63021,Jovana,"We need a river walk with lots of restaurants and shops
 More dessert stops","Forest Park,River Walk,Clementine's Creamery,Arch"
 SFTF3,Sauce Food Truck Friday,Washington and Surrounding Park,A young god,29,63101,@3rd_eye_vibes,The surrounding streets and parks by my residences,"Flamingo Bowl,Citygarden,Bull and Bear"
 SFTF4,Sauce Food Truck Friday,Food,,30,63116,,,"Blues City Deli,Kounter Kulture,Mac's Local Eats,Angry Beaver"
@@ -618,11 +618,11 @@ SLPLA1`,St. Louis Public Library (A),Scripture Novelty Relief ,,25,63104,Deon Wh
 SLPLA2,St. Louis Public Library (A),,,13,63113,Wesley,Ramp Riders,Ramp Riders Skatepark
 SLPLA3,St. Louis Public Library (A),,,59,63111,Scott Wolfe,"Churches, synagogues, and mosques in St. Louis represent those historic and future immigrant populations who built and continue to build a bold and dynamic that is uniquely St. Louis — the foundation of the city is neighborhoods. ","St. Alphonsus Liguori,St. Anthony of Padua ,St. Francis de Sales,Cathedral Basilica of Saint Louis (New Cathedral / CWE),St. Louis Islamic Center,The Islamic Foundation of Greater St. Louis,Old Shaare Zedek Synagogue,United Hebrew Congregation of St. Louis"
 SLPLA4,St. Louis Public Library (A),,,,63109,,Let's Go Blues!,"Clark Avenue,14th Street,Enterprise Center"
-SLPLA5,St. Louis Public Library (A),,,45,63116,Beth Krass,"Water Tower Romanesque 
+SLPLA5,St. Louis Public Library (A),,,45,63116,Beth Krass,"Water Tower Romanesque
 River Des Peres Bikeway","River des Peres Greenway,North Grand Water Tower"
 SLPLA6,St. Louis Public Library (A),,,52,63376,Scott Epstein - size 12 shoe,"What is here is Forest Park, hiking trails, culture sights, library.  Miss all the boats on the Mississippi River. Need reason to spend time on Sullivan Blvd. Make a reason to spend time on the river banks.","Mississippi River,Forest Park,Library (unmarked),Riverboats,Riverfront,Sullivan Avenue"
-SLPLB,St. Louis Public Library (B),Park/World Fair,,43,63116,@Goldstarforest,"Forest Park  
--Park Significance 
+SLPLB,St. Louis Public Library (B),Park/World Fair,,43,63116,@Goldstarforest,"Forest Park
+-Park Significance
 -Current public space for all w/ free museums","Zoo,Art Hill,St. Louis Art Museum"
 SLPLB2,St. Louis Public Library (B),,Black,55,63106,Calvin Lanier,The old landmaid church across from the thank you Calvin Lanier,
 SLPLB3,St. Louis Public Library (B),My favorite Monuments,female white,29 ,63110,@gagonebotanizing,My favorite monument is the pavillion at Tower Grove Park,"Compton Hill Water Tower,Arch,Pavillion at Tower Grove Park"
@@ -643,7 +643,7 @@ SLPLC1,St. Louis Public Library (C),,Human,48,63366,Scott,Day before Easter 1994
 SLPLC2,St. Louis Public Library (C),,,3,63109,Rory O.,This is a map of Francis Park!,Francis Park
 SLPLC3,St. Louis Public Library (C),Literary Quadrant,,,63011,Joan Fernandez,"I love the idea of having busts of famous people, especially writers from St. Louis. I like having them in close proximity because it makes a bigger point to have them together as a group than lone busts on their own.","Central West End Neighborhood,Euclid Avenue,William S. Burroughs Bust,Kate Chopin Bust,T.S. Eliot Bust,Tennessee Williams Bust"
 SLPLC4,St. Louis Public Library (C),Delmar Loop Starts,,,63011,Joan Fernandez,"Love walking down the sidewalks along Delmar Blvd and coming across names of famous St. Louis artists, musicians, actors, and others. Would love to see more of this about other notable people in other fields.","Delmar Blvd,Delmar Walk of Fame"
-SLPLC5,St. Louis Public Library (C),,,"37, 16, and 14",63031,"Jen Yoder, jennnnnnstagram; Indigo and Gabe Amuntegi","Historical housing that is being torn down or completely gutted and updated erases the history of the development of STL as well as the mapping of architectural style. 
+SLPLC5,St. Louis Public Library (C),,,"37, 16, and 14",63031,"Jen Yoder, jennnnnnstagram; Indigo and Gabe Amuntegi","Historical housing that is being torn down or completely gutted and updated erases the history of the development of STL as well as the mapping of architectural style.
 
 Forest Park is such an amazing asset to STL - the green space, the museums, it's is an oasis!","Forest Park,Missouri History Museum,St. Louis Art Museum,Historical Housing (unmarked)"
 SLPLC6,St. Louis Public Library (C),Three River Places,Male,65,63112,Anders Carlsson arc@wustl.edu,These are three places where I can see our three area rivers. I get to each one at least once a year. ,"Lewis and Clark Trail,Missouri River,Meramec River,Rock Hollow Trail,Downtown Neighborhood,Mississippi River,Riverlands"
@@ -655,7 +655,7 @@ SLPLC11,St. Louis Public Library (C),Hometown,,61,63109,Kirwin314,The entire cit
 SLPLC12,St. Louis Public Library (C),Mississippi Emancipation Route,,24,63117,@bureauofopticallabour,The largest slave trading post in STL is now the site of Ball Park Village. Enslaved Black Americans swam across the Mississippi River to freedom. The oldest Black incorporated town in America was 3 miles Northeast of Downtown STL. ,"Ballpark Village,Mississippi River,Arch,Eads Bridge,""Brooklyn, IL"",Illinois,Largest Slave Trading Post in STL"
 SLPLC13,St. Louis Public Library (C),A selection of locations with histories that should be told,,24,63117,Marissa,"Forest Park (1904 World's Fair): Mistreatment and containment of indigenous people for the entertainment of white people.
 
-Pruitt Igor: Government control of segregating neighborhoods. Transparency in how / why it wasn't the residents who caused the failure of the housing project, but the planners themselves. How it devastated housing projects across the US due to the planners not owning their faults. 
+Pruitt Igor: Government control of segregating neighborhoods. Transparency in how / why it wasn't the residents who caused the failure of the housing project, but the planners themselves. How it devastated housing projects across the US due to the planners not owning their faults.
 
 Ballpark Village: Site of the largest slave trading post in Missouri.
 
@@ -664,7 +664,7 @@ SLPLC14,St. Louis Public Library (C),,,40,63130,,"School District of University 
 SLPLC15,St. Louis Public Library (C),Friday Field Trips with My Daughters,Female,57,62223,Anna O'Gara,"Raising my daughters meant Friday Field Trips to all sorts of places in St. Louis—museums, libraries, book stores, theatre experiences.. anything for fun and learning. I sought a wide range of activities all over the metro area. These are some of the places we visited, but there are so many more we could have explored.","Mississippi River,""Belleville, IL"",Central West End Neighborhood,Left Bank Books,Arch,Forest Park,Missouri History Museum,The Muny,Zoo,St. Louis Art Museum,Blueberry Hill Restaurant ,The Loop,Laumeier Sculpture Park,Ted Drews Frozen Custard,The Hill Neighborhood,Botanical Gardens,St. Louis Science Center,Busch Stadium,World's Fair Donuts,Manchester Ave"
 SLPLC16,St. Louis Public Library (C),Rendition of Forest Park,,35,63129,Veretta,"I chose to mark the Forest Park area. I choose this area because it is a very beautiful place to visit. It is also home to the Zoo, Art Gallery, History Museum, and several events are held there throughout the year. It is my favorite place to go and I think and just embrace nature and my well-being.","Forest Park,Zoo,St. Louis Art Museum,Missouri History Museum"
 SLPLC17,St. Louis Public Library (C),,,Old,63104,,Green Room at Union Station and Venice Cafe. ,"Venice Café,Union Station"
-SLPLC18,St. Louis Public Library (C),Common Space of St. Louis,Woman,21,63111,"Sienna Ruiz, @siennarosalisn","Along Page and Delmar Blvd there would be two interactive monuments built as bike / walking paths. The abandoned houses on Page would be converted into free galleries and art spaces. There would be squares and plazas dedicated to communal gatherings along the way. Native prairies line the paths and the Native American Mounds would be recreated alongside a monument to native peoples. 
+SLPLC18,St. Louis Public Library (C),Common Space of St. Louis,Woman,21,63111,"Sienna Ruiz, @siennarosalisn","Along Page and Delmar Blvd there would be two interactive monuments built as bike / walking paths. The abandoned houses on Page would be converted into free galleries and art spaces. There would be squares and plazas dedicated to communal gatherings along the way. Native prairies line the paths and the Native American Mounds would be recreated alongside a monument to native peoples.
 
 All common space—no need to spend money to exist here. No police—all community based safety and management programs. Explicitly safe for QT/POC. ","Page Blvd,Delmar Blvd,Monument to Native Peoples,Recreate Native American Mounds,Plazas and Squares for Communal Gathering,Art Galleries and Spaces"
 SLPLC19,St. Louis Public Library (C),STL Commute and Art,"Male, Chinese",24,63130,@ampharoaster,"Amoco sign: purely as a visual landmark
@@ -682,7 +682,7 @@ Greensfelder Park: He proposed (and I said yes)
 Foundry: We go married!
 Our first home and joint art studio ","St. Louis Art Museum,Home (unmarked),Foundry Art Center,Picasso's Coffee"
 SLPLC21,St. Louis Public Library (C),,Female,30,63118,Kyle,"Train Tracks: Always interesting
-City Museum: So much wacky creativity 
+City Museum: So much wacky creativity
 Home: I love Dutchtown (63118)
 North up past Laclede's Landing: I find peaceful abandonment
 River Culture","City Museum,Train Tracks (unmarked),Dutchtown Neighborhood,Mississippi River,Laclede's Landing"
@@ -694,9 +694,9 @@ TGEM4,Tower Grove East Neighborhood Association Meeting,My favorite places,Woman
 TGEM5,Tower Grove East Neighborhood Association Meeting,Highlight of a hometown,"Female, gay, optimistic",38,63104,Jessica Vallieres,"Parks, history, unity (through sports teams), historic architecture ","Forest Park,Tower Grove Park,Arch,Enterprise Center,Busch Stadium,Mississippi River,Chatillon-DeMenil Mansion"
 TGEM6,Tower Grove East Neighborhood Association Meeting,St. Louis 66 Now and Then,Female,32,63104,JoAnna Hernandez,Rotating features town section every weekend showing St. Louis then and now. Highlighting a different section of Historic Route 66. Showing that it is still welcoming and unique.,"Mississippi River,Restaurant (unmarked),US Route 66,Farmer's Market (unmarked)"
 TGEM7,Tower Grove East Neighborhood Association Meeting,The Heart of St. Louis,,27,63118,Emily Thompson,"The people of St. Louis! You can find the map, the heart, and the love, of this beautiful city.",City of Saint Louis
-TGFM1,Tower Grove Farmers Market,The Problems with Whiteness,"South Asian queer, middle class, and non-native STL",38,63116,Shruti Desai,"East STL and the Arch: representation of racism, colonization, and consumerism 
+TGFM1,Tower Grove Farmers Market,The Problems with Whiteness,"South Asian queer, middle class, and non-native STL",38,63116,Shruti Desai,"East STL and the Arch: representation of racism, colonization, and consumerism
 Cherokee: need monument of history and Delmar / Griot - reps history","Suburbs,White flight,Delmar Blvd,East St. Louis,Mississippi River,Gentrification,Monument to Native / Latinx"
-TGFM2,Tower Grove Farmers Market,,White female,33,63116,#whiteflight,"Public transportation in STL: the Metro Link 
+TGFM2,Tower Grove Farmers Market,,White female,33,63116,#whiteflight,"Public transportation in STL: the Metro Link
 White folks in the county LOVE to ride the Metro in for Cards / Blues games nut retreat to the ""safety"" of their county homes immediately thereafter. While City residents can't really navigate or have access to the full city with out excessive wait times daily. Where are the other metro lines?","Metrolink,Mississippi River,Arch,Lambert International Airport,St. Louis County"
 TGFM3,Tower Grove Farmers Market,The Park,White Male Stratight,38,63112,@daveruppel,"I live near Forest Park so I think of that, the park, as the identity of STL. ","Forest Park,Zoo,Missouri History Museum"
 TGFM4,Tower Grove Farmers Market,,"A St. Louisan, student, organizer",29,63139,@duwetherell,"Bird building: the shining building with the bird murals
@@ -714,7 +714,7 @@ TGPF3,Tower Grove Pride Fest,,,51,63122,mikeheh@yahoo.com,"Cahokia Mounds-pre Eu
 Ameren UE plant - beauty + pollution
 K Dunham Home - Heroic cultural figure
 Percy Green monument - rem. civil rights hero","The Loop,Washington University,Webster Groves,Forest Park,Maplewood,Calvary Cemetery,Percy Green Monument,Central West End Neighborhood,The Grove,Tower Grove Park,Fox Park,Dutchtown Neighborhood,Grant's Farm,Bellerive Park,Scott Joplin House,Crown Candy,Cahokia Mounds,Jackie Joyner Kersee Center,Katherine Dunham Museum,Ameren UE Plant,Soulard Farmer's Market"
-TGPF4,Tower Grove Pride Fest,"Slow Learn, Slow Burn - Writer MAPS","Queer, Trans",35,63116,Cypress Butane Author-Cypress-Butane.tumbler.com,"Turtle park 
+TGPF4,Tower Grove Pride Fest,"Slow Learn, Slow Burn - Writer MAPS","Queer, Trans",35,63116,Cypress Butane Author-Cypress-Butane.tumbler.com,"Turtle park
 Highways
 Typewriter",Turtle Park
 TGPF5,Tower Grove Pride Fest,Loo's 30 Day St. Louis Knowledge,Woman,23,63110,Lou Vinarcsik,My neighborhood b/c it's all I've explore so far.,"The Hill Neighborhood,Botanical Gardens,Tower Grove Park,Saint Louis University,Cardinal Glennon,Downtown Neighborhood,Arch,Soulard Farmer's Market"
@@ -856,6 +856,6 @@ Better School for North City",Building (unmarked)
 WUECC2,Whitaker Urban Evening Concert,,American,60,63106,Mary Dailey,,"Venture Department Store,Shoney's Restaurant,Arch,Dairy Queen,Long John Silver's,Donut Shop (unmarked)"
 WUECC3,Whitaker Urban Evening Concert,,,,,,Keep Beautiful,Arch
 WUECC4,Whitaker Urban Evening Concert,,(illegible),49,63115,Monique,,"Zoo,The Loop,University City Loop Trolley,Union Station"
-WUECC5,Whitaker Urban Evening Concert,,Black female,62,63113,,,Historic 14th Street Mall 
+WUECC5,Whitaker Urban Evening Concert,,Black female,62,63113,,,Historic 14th Street Mall
 WUECC6,Whitaker Urban Evening Concert,,,57,63106,Angela Travis,Admiral Ben here in St. Louis was casino,The Admiral (Riverboat)
 WUECC7,Whitaker Urban Evening Concert,Neighborhood Change,White female,33,63118,Liz,Remembering the neighbors and places that do not exist/have been renamed.,"Mill Creek Valley,McRee Town,Botanical Heights Neighborhood,Historic 14th Street Mall ,Chinatown,Pruitt Igoe Housing Projects,Mounds"
