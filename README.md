@@ -1,4 +1,4 @@
-# public-iconographies
+# Public Iconographies
 Data represented the places mapped during the summer of 2019 as part of a partnership between Monument Lab and the Pulitzer Foundation.
 
 
